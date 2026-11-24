@@ -1,0 +1,6 @@
+Solucoes otimas para os datasets utilizados
+
+u1060 : 224094
+u159 : 42080
+
+Repositorio do dataset: https://github.com/mastqe/tsplib/tree/master
